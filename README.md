@@ -125,6 +125,7 @@ A lightweight but powerful source code editor that runs on your desktop and is a
 
 # Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.  Vague Prompt:
    Vague prompt: "Write something about cats."
+  
    Improved Prompt: "Generate a 100-word paragraph describing the behavioral differences between domestic shorthair cats and Maine Coon cats, focusing on their social tendencies and activity levels."
 
   Explanation of Improvement:
